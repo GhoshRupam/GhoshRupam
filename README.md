@@ -19,7 +19,7 @@
 
 <p><img align="left" width="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=GhoshRupam&show_icons=true&locale=en&layout=compact" alt="GhoshRupam" /></p>
 
-<p>&nbsp;<img align="right"  src="https://github-readme-stats.vercel.app/api?username=GhoshRupam&show_icons=true&locale=en" alt="GhoshRupam" /></p>
+<p><img align="right"  src="https://github-readme-stats.vercel.app/api?username=GhoshRupam&show_icons=true&locale=en" alt="GhoshRupam" /></p>
 <br>
 
 <p><img align="left" height = "200" width="1050" src="https://github-readme-streak-stats.herokuapp.com/?user=GhoshRupam&" alt="GhoshRupam" /></p>
