@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rupam Ghosh</h1>
 <div align="center"> <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"> </div>
 <h3 align="center">A passionate full stack web developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/34e69eb61a7bd8dea1c957a8b82605a7.gif">
+<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif?cid=6c09b952c7g8llwd8q99t0haifkqzmp9h4c7fo4g4mnb1j7k&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GhoshRupam&label=Profile%20views&color=0e75b6&style=flat" alt="GhoshRupam" /> </p>
