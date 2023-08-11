@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/34e69eb61a7bd8dea1c957a8b82605a7.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rupamghosh90693&label=Profile%20views&color=0e75b6&style=flat" alt="rupamghosh90693" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=GhoshRupam&label=Profile%20views&color=0e75b6&style=flat" alt="GhoshRupam" /> </p>
 
 - 🌱 I’m currently learning **Web Development**
 
@@ -21,8 +21,8 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rupamghosh90693&show_icons=true&locale=en&layout=compact" alt="rupamghosh90693" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=GhoshRupam&show_icons=true&locale=en&layout=compact" alt="GhoshRupam" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rupamghosh90693&show_icons=true&locale=en" alt="rupamghosh90693" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=GhoshRupam&show_icons=true&locale=en" alt="GhoshRupam" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rupamghosh90693&" alt="rupamghosh90693" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GhoshRupam&" alt="GhoshRupam" /></p>
