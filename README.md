@@ -30,7 +30,7 @@
     <img align="left" alt="Piyush Pravin | Instagram" width="24px" src="https://github.com/GhoshRupam/GhoshRupam/blob/main/Instagram.svg"  />
   </a>
   <a href="https://dev.to/piyushp7pravin" target="_blank">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Piyush Pravin's DEV Profile" height="30" width="30">
+  <img src="https://github.com/GhoshRupam/GhoshRupam/blob/main/icons8-youtube.svg" alt="Piyush Pravin's DEV Profile" height="30" width="30">
 </a>
 </p>
 
