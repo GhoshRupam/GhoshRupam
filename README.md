@@ -18,7 +18,7 @@
 <h3 align="left">🚀 &nbsp;Connect with me:</h3>
 <p align="left">
 <a href="https://in.linkedin.com/in/piyushp7pravin" target="_blank">
-   <img align="left" alt="Piyush Pravin | Linkedin" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Linkedin.svg" />
+   <img align="left" alt="Piyush Pravin | Linkedin" width="24px" src="https://github.com/GhoshRupam/GhoshRupam/blob/main/Linkedin.svg" />
   </a>
   <a href="mailto:piyushpravin1998@gmail.com" target="_blank">
     <img align="left" alt="Piyush Pravin | Gmail" width="26px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Gmail.svg" />
@@ -27,7 +27,7 @@
     <img align="left" alt="Piyush Pravin | Twitter" width="26px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Twitter.svg" />
   </a>
   <a href="https://www.instagram.com/piyushp7pravin/" target="_blank">
-    <img align="left" alt="Piyush Pravin | Instagram" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Instagram.svg"  />
+    <img align="left" alt="Piyush Pravin | Instagram" width="24px" src=""  />
   </a>
   <a href="https://dev.to/piyushp7pravin" target="_blank">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Piyush Pravin's DEV Profile" height="30" width="30">
