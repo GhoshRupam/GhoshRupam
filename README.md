@@ -17,22 +17,21 @@
 <br>
 <h3 align="left">🚀 &nbsp;Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/johnkirtley16" target="_blank">
-   <img align="center" alt="John Kirtley | Linkedin " width="40px" src="http://www.prepare1.com/wp-content/uploads/2014/04/linkedin-logo-high-res-1254-1024x1024.jpg"</a>
-  
-  <a href="https://twitter.com/johnkirtley_" target="_blank">
-    <img align="center" alt="John Kirtley | Twitter" width="41px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+<a href="https://in.linkedin.com/in/piyushp7pravin" target="_blank">
+   <img align="left" alt="Piyush Pravin | Linkedin" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Linkedin.svg" />
   </a>
-
-  <a href="https://dev.to/johnkirtley_" target="_blank">
-    <img align="center" alt="John Dev Profile" width="41px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands-1/512/84_Dev_logo_logos-512.png" />
+  <a href="mailto:piyushpravin1998@gmail.com" target="_blank">
+    <img align="left" alt="Piyush Pravin | Gmail" width="26px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Gmail.svg" />
   </a>
- </div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="vscode" width="45" height="45"/>
-          
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
+  <a href="https://twitter.com/PiyushP7pravin" target="_blank">
+    <img align="left" alt="Piyush Pravin | Twitter" width="26px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Twitter.svg" />
+  </a>
+  <a href="https://www.instagram.com/piyushp7pravin/" target="_blank">
+    <img align="left" alt="Piyush Pravin | Instagram" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Instagram.svg"  />
+  </a>
+  <a href="https://dev.to/piyushp7pravin" target="_blank">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Piyush Pravin's DEV Profile" height="30" width="30">
+</a>
 </p>
 
 <h3 align="left">🚀 &nbsp;Languages and Tools:</h3>
