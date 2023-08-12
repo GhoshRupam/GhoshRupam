@@ -18,16 +18,16 @@
 <h3 align="left">🚀 &nbsp;Connect with me:</h3>
 <p align="left">
 <a href="https://in.linkedin.com/in/piyushp7pravin" target="_blank">
-   <img align="left" alt="Piyush Pravin | Linkedin" width="24px" src="https://github.com/GhoshRupam/GhoshRupam/blob/main/Linkedin.svg" />
+   <img align="left" alt="Piyush Pravin | Linkedin" width="30px" src="https://github.com/GhoshRupam/GhoshRupam/blob/main/Linkedin.svg" />
   </a>
 <a href="https://twitter.com/PiyushP7pravin" target="_blank">
-    <img align="left" alt="Piyush Pravin | Twitter" width="26px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Twitter.svg" />
+    <img align="left" alt="Piyush Pravin | Twitter" width="30px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Twitter.svg" />
   </a>
 <a href="https://www.instagram.com/piyushp7pravin/" target="_blank">
-    <img align="left" alt="Piyush Pravin | Instagram" width="24px" src="https://github.com/GhoshRupam/GhoshRupam/blob/main/Instagram.svg"  />
+    <img align="left" alt="Piyush Pravin | Instagram" width="30px" src="https://github.com/GhoshRupam/GhoshRupam/blob/main/Instagram.svg"  />
   </a>
 <a href="https://www.instagram.com/piyushp7pravin/" target="_blank">
-    <img align="left" alt="Piyush Pravin | Instagram" width="24px" src="https://github.com/GhoshRupam/GhoshRupam/blob/main/icons8-youtube.svg" />
+    <img align="left" alt="Piyush Pravin | Instagram" width="30px" src="https://github.com/GhoshRupam/GhoshRupam/blob/main/icons8-youtube.svg" />
   </a>
 </p>
 <br>
