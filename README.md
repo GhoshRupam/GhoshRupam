@@ -17,17 +17,17 @@
 <br>
 <h3 align="left">🚀 &nbsp;Connect with me:</h3>
 <p align="left">
-<a href="https://in.linkedin.com/in/piyushp7pravin" target="_blank">
+<a href="https://www.linkedin.com/in/grupam/" target="_blank">
    <img align="left" alt="Piyush Pravin | Linkedin" width="30px" src="https://github.com/GhoshRupam/GhoshRupam/blob/main/Linkedin.svg" />
   </a>
-<a href="https://twitter.com/PiyushP7pravin" target="_blank">
+<a href="https://twitter.com/RupamGh22481498" target="_blank">
     <img align="left" alt="Piyush Pravin | Twitter" width="30px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Twitter.svg" />
   </a>
-<a href="https://www.instagram.com/piyushp7pravin/" target="_blank">
+<a href="https://www.instagram.com/rupam1.0/" target="_blank">
     <img align="left" alt="Piyush Pravin | Instagram" width="30px" src="https://github.com/GhoshRupam/GhoshRupam/blob/main/Instagram.svg"  />
   </a>
-<a href="https://www.instagram.com/piyushp7pravin/" target="_blank">
-    <img align="left" alt="Piyush Pravin | Instagram" width="30px" src="https://github.com/GhoshRupam/GhoshRupam/blob/main/icons8-youtube.svg" />
+<a href="https://www.youtube.com/channel/UCVz_lDISBaYDUJwm8ze5R1g" target="_blank">
+    <img align="left" alt="Piyush Pravin | Instagram" width="35px" src="https://github.com/GhoshRupam/GhoshRupam/blob/main/icons8-youtube.svg" />
   </a>
 </p>
 <br>
