@@ -1,20 +1,5 @@
 <h1 align="center">Hey there, I'm Rupam! 👋</h1>
-<br>
-<img align="right" alt="Coding" height = "200" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-- 🌱 I’m currently learning **Web Development**
-
-- 👨‍💻 All of my projects are available at [https://rupamghosh.netlify.app/](https://rupamghosh.netlify.app/)
-
-- 💬 Ask me about **DSA, Servicenow Development**
-
-- 📫 How to reach me **engg.rupam@gmail.com**
-
-- 📄 Know about my experiences [https://rupamghosh.netlify.app/](https://rupamghosh.netlify.app/)
-
-<br>
-<h3 align="left">🚀 &nbsp;Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://www.linkedin.com/in/grupam/" target="_blank">
    <img align="left" alt="Piyush Pravin | Linkedin" width="30px" src="https://github.com/GhoshRupam/GhoshRupam/blob/main/Linkedin.svg" />
   </a>
@@ -28,6 +13,21 @@
     <img align="left" alt="Piyush Pravin | Instagram" width="35px" src="https://github.com/GhoshRupam/GhoshRupam/blob/main/icons8-youtube.svg" />
   </a>
 </p>
+<br>
+<img align="right" alt="Coding" height = "200" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+- 🌱 I’m currently learning **Web Development**
+
+- 👨‍💻 All of my projects are available at [https://rupamghosh.netlify.app/](https://rupamghosh.netlify.app/)
+
+- 💬 Ask me about **DSA, Servicenow Development**
+
+- 📫 How to reach me **engg.rupam@gmail.com**
+
+- 📄 Know about my experiences [https://rupamghosh.netlify.app/](https://rupamghosh.netlify.app/)
+
+<h3 align="center">🚀 &nbsp;Connect with me:</h3>
+
 <br>
 
 <h3 align="left">🚀 &nbsp;Languages and Tools:</h3>
