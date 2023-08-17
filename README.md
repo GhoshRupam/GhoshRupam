@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rupam Ghosh</h1>
-<h3 align="center">A passionate full stack web developer from India</h3>
+<h1 align="center">Hey there, I'm Rupam! 👋</h1>
 <br>
 <img align="right" alt="Coding" height = "200" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
