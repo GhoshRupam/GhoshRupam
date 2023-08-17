@@ -1,12 +1,12 @@
 <h1 align="center">Hey there, I'm Rupam! 👋</h1>
 <p align="center">
-<a href="https://www.linkedin.com/in/grupam/" target="_blank">
+<a href="https://www.linkedin.com/in/grupam" target ="_blank">
    <img align="center" alt="Piyush Pravin | Linkedin" width="30px" src="https://github.com/GhoshRupam/GhoshRupam/blob/main/Linkedin.svg" />
   </a>&nbsp;&nbsp;
 <a href="https://twitter.com/RupamGh22481498" target="_blank">
     <img align="center" alt="Piyush Pravin | Twitter" width="30px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Twitter.svg" />
   </a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/rupam1.0/" target="_blank">
+<a href="https://www.instagram.com/rupam1.0" target="_blank">
     <img align="center" alt="Piyush Pravin | Instagram" width="30px" src="https://github.com/GhoshRupam/GhoshRupam/blob/main/Instagram.svg"  />
   </a>&nbsp;&nbsp;
 <a href="https://www.youtube.com/channel/UCVz_lDISBaYDUJwm8ze5R1g" target="_blank">
