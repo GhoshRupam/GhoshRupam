@@ -37,18 +37,4 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github"  width="30" height="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="30" height="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="30" height="30" />
-          
 </p>
-
-
-
-<div style="display: flex; justify-content: space-between;">
-
-<p><img align="left" width="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=GhoshRupam&show_icons=true&locale=en&layout=compact" alt="GhoshRupam" /></p>
-
-<p><img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=GhoshRupam&show_icons=true&locale=en" alt="GhoshRupam" /></p>
-</div>
-
-&nbsp;
-
-<p><img align="left" height = "200" width="1050" src="https://github-readme-streak-stats.herokuapp.com/?user=GhoshRupam&" alt="GhoshRupam" /></p>
