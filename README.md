@@ -13,7 +13,7 @@
     <img align="center" alt="Piyush Pravin | Instagram" width="35px" src="https://github.com/GhoshRupam/GhoshRupam/blob/main/icons8-youtube.svg" />
   </a>&nbsp;&nbsp;
 </p>
-<img align="right" alt="Coding" height = "200" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" height = "300" width="450" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🌱 I’m currently learning **Web Development**
 
