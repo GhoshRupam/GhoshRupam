@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 👨‍💻 All of my projects are available at [https://rupamghosh.netlify.app/](https://rupamghosh.netlify.app/)
+- 👨‍💻 All of my profiles are available here [https://linktr.ee/rupam_ghosh/](https://linktr.ee/rupam_ghosh)
 
 - 💬 Ask me about **DSA, Servicenow Development**
 
