@@ -16,8 +16,8 @@
 <img align="right" alt="Coding" height = "200" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🌱 I’m currently learning **Web Development**
-
-- 👨‍💻 All of my profiles are available here <a href="https://linktr.ee/rupam_ghosh" target="_blank"> LinkTree </a>
+  
+- 👨‍💻 All of my profiles are available here <a href="https://linktr.ee/rupam_ghosh" target="_blank">Visit Linktree</a>
 
 - 💬 Ask me about **DSA, Servicenow Development**
 
