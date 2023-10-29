@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **engg.rupam@gmail.com**
 
-- 📄 Know about my experiences [https://rupamghosh.netlify.app/](https://rupamghosh.netlify.app/)
+- 📄 Know about my experiences <a href="https://rupamghosh.netlify.app" target="_blank"> Portfolio </a>
 
 <h3 align="left">🚀 &nbsp;Languages and Tools:</h3>
 <p align="left">
