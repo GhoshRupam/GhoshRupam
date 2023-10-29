@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 👨‍💻 All of my profiles are available here [https://linktr.ee/rupam_ghosh/](https://linktr.ee/rupam_ghosh)
+- 👨‍💻 All of my profiles are available here [https://linktr.ee/rupam_ghosh/](https://linktr.ee/rupam_ghosh/)
 
 - 💬 Ask me about **DSA, Servicenow Development**
 
